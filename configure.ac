@@ -20,6 +20,16 @@ BITCOIN_CLI_NAME=waggox-cli
 BITCOIN_TX_NAME=waggox-tx
 
 AC_CANONICAL_HOST
+AC_MSG_NOTICE([------------------------------------])
+AC_MSG_NOTICE([------------------------------------])
+AC_MSG_NOTICE([                                    ])
+AC_MSG_NOTICE([                 2018-2019          ])
+AC_MSG_NOTICE([      WaggoX coin Proof of Stake    ])
+AC_MSG_NOTICE([                                    ])
+AC_MSG_NOTICE([     Setting up build for     ])
+AC_MSG_NOTICE([     $host      ])
+AC_MSG_NOTICE([------------------------------------])
+AC_MSG_NOTICE([------------------------------------])
 
 AH_TOP([#ifndef WAGGOX_CONFIG_H])
 AH_TOP([#define WAGGOX_CONFIG_H])
