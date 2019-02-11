@@ -39,6 +39,15 @@ RPCPORT: 33330
 
 P2P PORT: 32320
 
+EXPLORER
+--------
+http://blocks.waggok.tech/
+
+
+EXCHANGE
+--------
+
+https://cratex.io/index.php?pair=WGGX/BTC
 
 
 License
