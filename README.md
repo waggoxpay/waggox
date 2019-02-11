@@ -24,6 +24,22 @@ of stake coin
 For more information, as well as an immediately useable, binary version of
 the Waggox Core software, see https://website.waggok.tech.
 
+SPECIFICATION
+-------------
+
+Algorithm: x11/POS/MN
+
+Block Reward: 4.52214 WGGX , 
+
+Masternode Reward: 3.617712 WGGX
+
+Staking Reward: 0.904428 WGGX
+
+RPCPORT: 33330
+
+P2P PORT: 32320
+
+
 
 License
 -------
