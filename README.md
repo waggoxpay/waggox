@@ -1,8 +1,8 @@
-![Waggox](https://github.com/waggox/waggox/blob/master/src/qt/res/icons/light/about.png "Waggox")
+![Waggox](https://github.com/waggoxpay/waggox2/blob/master/src/qt/res/icons/light/about.png "Waggox")
 
 WAGGOX Core integration/staging tree
 =====================================
-[![Build Status](https://travis-ci.org/waggox/waggox.svg?branch=master)](https://travis-ci.org/waggox/waggox)
+[![Build Status](https://travis-ci.org/waggox2/waggox.svg?branch=master)](https://travis-ci.org/waggoxpay/waggox2)
 
 
 http://www.waggoxcoin.com
@@ -22,7 +22,7 @@ source software which enables the use of this currency. Its a folk of Dash and i
 of stake coin
 
 For more information, as well as an immediately useable, binary version of
-the Waggox Core software, see https://www.waggoxcoin.com.
+the Waggox Core software, see https://website.waggok.tech.
 
 
 License
@@ -35,7 +35,7 @@ Development Process
 -------------------
 
 The `master` branch is meant to be stable. Development is normally done in separate branches.
-[Tags](https://github.com/waggox/waggox/tags) are created to indicate new official,
+[Tags](https://github.com/waggoxpay/waggox2/tags) are created to indicate new official,
 stable release versions of Waggox Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
@@ -72,7 +72,7 @@ Translations
 ------------
 
 Changes to translations as well as new translations can be submitted to
-[Waggox Core's Transifex page](https://www.transifex.com/projects/p/waggox/).
+[Waggox Core's Transifex page](https://www.transifex.com/projects/p/waggoxpay/).
 
 Translations are periodically pulled from Transifex and merged into the git repository. See the
 [translation process](doc/translation_process.md) for details on how this works.
@@ -80,4 +80,3 @@ Translations are periodically pulled from Transifex and merged into the git repo
 **Important**: We do not accept translation changes as GitHub pull requests because the next
 pull from Transifex would automatically overwrite them again.
 
-Translators should also follow the [forum](https://www.waggox.com/forum/topic/waggox-worldwide-collaboration.88/).
