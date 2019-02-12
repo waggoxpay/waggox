@@ -1,6 +1,6 @@
 ### Usage
 
-To build dependencies for the current arch+OS:
+To build dependencies for that current arch+OS:
 
     make
 
